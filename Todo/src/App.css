@@ -1,0 +1,22 @@
+.todo-container h1 {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+ input  {
+    width: 100% ;
+    
+}
+.items-container {
+     text-align: left;
+}
+
+.kgrow{
+     margin: 20px ;
+    margin-top: 20px !important;
+}
+.button {
+    text-align: left ;
+    margin-right: 100px;
+}
